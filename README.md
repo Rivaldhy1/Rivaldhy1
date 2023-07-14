@@ -14,5 +14,5 @@
 </div>
 
 ## 🕶 About Me
-- 📚 Still learning
 - 👨‍🎓 Graduated from TI Bali Global Denpasar Vocational High School 2023  
+- 📚 Still learning
