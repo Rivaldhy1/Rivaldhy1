@@ -6,7 +6,7 @@
   <a href="https://www.instagram.com/arrival1l/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-black?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge" />
   </a>
-  <a href="https://www.youtube.com/channel/UCC8ep5bJ8deDgU0fImVfDJQ">
+  <a href="https://www.youtube.com/channel/UCC8ep5bJ8deDgU0fImVfDJQ" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
