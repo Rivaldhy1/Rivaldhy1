@@ -12,6 +12,3 @@
 </div>
 <img src="https://komarev.com/ghpvc/?username=Rivaldhy1&style=flat-square&color=blue" alt=""/>
 </div>
-
-## 🕶 About Me
-- 👨‍🎓 Graduated from TI Bali Global Denpasar Vocational High School 2023 
