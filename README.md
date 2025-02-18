@@ -1,6 +1,1 @@
-
-## Hi 👋
-
-I'm Rivaldhy Rizki Akbar
-
-<br />
+"Pixel by Pixel" 
